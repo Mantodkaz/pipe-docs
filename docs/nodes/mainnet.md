@@ -60,7 +60,7 @@ DISK_CACHE_SIZE_GB=100
 DISK_CACHE_PATH=./cache
 
 # Network ports
-HTTP_PORT=80
+NODE_LISTEN_PORT=80
 HTTPS_PORT=443
 
 # Home network auto port forwarding (disable on VPS/servers)
