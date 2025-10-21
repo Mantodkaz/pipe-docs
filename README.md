@@ -23,6 +23,7 @@ Decentralized storage solution with client-side encryption
 ### Nodes
 - [Mainnet](docs/nodes/mainnet.md) - Mainnet information
 - [Workdrop](docs/Workdrop.md) - Workdrop program
+- [Quality Multiplier Guide](docs/nodes/quality-multiplier.md) - Learn how to maximize your node earnings through performance optimization
 
 ### CDN API
 - [API Documentation](docs/cdn-api/api-documentation.md) - Complete API reference
